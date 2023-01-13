@@ -6,5 +6,7 @@ Some helpful details about zyBook's [Data Science Foundations with Python](https
   - development - not graded, tracked, or save ... run as many time as you want
   - submission - submit to autograder ... all submissions coutned and the last 5 are saved.
     - I don't intend to limit # of submissions
-    - but I also don't want you to simply guess and check until your code is accepted. This usually backfires - you don't actually understand what your mistakes were are are therefore doomed to repeat them.
+    - but I also don't want you to simply guess and check until your code is accepted
+    - this usually backfires - you don't actually understand your mistakes are are therefore doomed to repeat them of the exam
+    - I suggest starting a problem in submission mode, but flip to development mode if your first few submission are not correct. Get it working in dev mode then go back to submission mode.
 - to be continued
