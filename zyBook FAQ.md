@@ -4,7 +4,7 @@ Some helpful details about zyBook's [Data Science Foundations with Python](https
 - You will lose access after the course ends. Download pdf copies for your future use. They aren't interactive but will still have all the material.
 - Some CA and zyLab problems offer "development" vs "submission" modes.
   - development - not graded, tracked, or saved ... run as many time as you want
-  - submission - submit to autograder ... all submissions coutned and the last 5 are saved.
+  - submission - submit to autograder ... attempt are counted and last 5 are saved
     - I don't intend to limit # of submissions
     - but I also don't want you to simply guess and check until your code is accepted
     - this usually backfires - you don't actually understand your mistakes are are therefore doomed to repeat them of the exam
